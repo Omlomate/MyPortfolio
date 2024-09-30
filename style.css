@@ -415,14 +415,14 @@ p {
 }
 .image-content {
 	position: absolute;
-	top: 0;
-	right: 0;
-	width: 60vmin;
-	height: 100%;
-	background-image: url("https://companieslogo.com/img/orig/SPOT-c85b9454.png");
-	background-size: cover;
-	transition: .3s ease-in-out;
-	/* border: 1px solid green; */
+    top: 80px;
+    right: -20px;
+    width: 85vmin;
+    height: 75%;
+    background-image: url(https://www.minibigtech.com/img/sms1.png);
+    background-size: cover;
+    transition: .3s ease-in-out;
+    /* /* border: 1px solid green; */
 }
 
 .inset {
